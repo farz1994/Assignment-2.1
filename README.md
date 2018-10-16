@@ -17,7 +17,7 @@ Data from Weka Attribute-Relation File Format (ARFF) files can be read in with t
 
 library(foreign)
 
-data <- read.arff("")
+data <- read.arff()
 
 
 4. How to read a heavy csv/tsv file using readr package?
